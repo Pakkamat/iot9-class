@@ -36,7 +36,7 @@ payload: {
 ## HEATWATER
 topic:v1cdti/app/get/6310301036/model-01/sn-01
 payload: {
-    "action"    :   "set",
+    "action"    :   "get",
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
@@ -80,9 +80,9 @@ payload: {
 # Operation state
 
 ## DOORCLOSE
-topic:v1cdti/app/set/6310301036/model-01/sn-01
+topic:v1cdti/app/get/6310301036/model-01/sn-01
 payload: {
-    "action"    :   "set",
+    "action"    :   "get",
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
