@@ -122,7 +122,7 @@ payload: {
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
-    "name"      :   "FAULT_STATUS",
+    "name"      :   "STATUS",
     "value"     :   "TIMEOUT"
 }
 
@@ -133,7 +133,7 @@ payload: {
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
-    "name"      :   "FAULT_STATUS",
+    "name"      :   "STATUS",
     "value"     :   "OUTOFBALANCE"
 }
 
@@ -144,7 +144,7 @@ payload: {
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
-    "name"      :   "FAULT_STATUS",
+    "name"      :   "STATUS",
     "value"     :   "MOTORFAILURE"
 }
 
@@ -155,6 +155,6 @@ payload: {
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
-    "name"      :   "FAULT_STATUS",
+    "name"      :   "STATUS",
     "value"     :   "FAULT_CLEAR"
 }
