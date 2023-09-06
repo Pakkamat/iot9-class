@@ -102,7 +102,7 @@ payload: {
 }
 
 ## TEMPERATUREREACHED
-topic:v1cdti/app/get/6310301036/model-01/sn-01
+topic:v1cdti/app/set/6310301036/model-01/sn-01
 payload: {
     "action"    :   "set",
     "project"   :   "6310301036",
@@ -127,9 +127,9 @@ payload: {
 }
 
 ## OUTOFBALANCE
-topic:v1cdti/app/get/6310301036/model-01/sn-01
+topic:v1cdti/app/set/6310301036/model-01/sn-01
 payload: {
-    "action"    :   "get",
+    "action"    :   "set",
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
@@ -138,9 +138,9 @@ payload: {
 }
 
 ## MOTORFAILURE
-topic:v1cdti/app/get/6310301036/model-01/sn-01
+topic:v1cdti/app/set/6310301036/model-01/sn-01
 payload: {
-    "action"    :   "get",
+    "action"    :   "set",
     "project"   :   "6310301036",
     "model"     :   "model-01",
     "serial"    :   "sn-01",
