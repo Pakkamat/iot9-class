@@ -156,5 +156,5 @@ payload: {
     "model"     :   "model-01",
     "serial"    :   "sn-01",
     "name"      :   "FAULT_STATUS",
-    "value"     :   "FAULTCLEARED"
+    "value"     :   "FAULT_CLEAR"
 }
